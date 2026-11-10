@@ -42,7 +42,23 @@ Administracion_Llanquihue_Tour/
 ```
 
 ---
+## ⚙️ Instrucciones para clonar y ejecutar el proyecto
 
+1. Clona el repositorio desde GitHub (reemplaza la URL de ejemplo por la URL real):
+
+```bash
+git clone https://github.com/Taa-aaT/Llanquihue-Tour.git
+```
+
+2. Abre la carpeta `Administracion_Llanquihue_Tour` en IntelliJ IDEA.
+
+3. Verifica que haya un JDK configurado para el proyecto. No se requieren archivos `.txt` para ejecutar el ejemplo actual.
+
+4. En el panel **Project**, abre `src/app/Main.java` y ejecuta el método `main`.
+
+5. Revisa la consola de IntelliJ IDEA para ver los datos creados e impresos: cliente, trabajador y proveedor.
+
+---
 
 **Repositorio GitHub:** https://github.com/Taa-aaT/Llanquihue-Tour.git
 **Fecha de entrega:** 09/11/2026
